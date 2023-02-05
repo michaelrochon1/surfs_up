@@ -7,11 +7,11 @@ W. Avy, our employer, has tasked us with a further analysis of weather data in O
 ## Results
 * During June, using 1700 data points, we found the mean temperature was 74.94 degrees farenheit with the minimum sitting at 64 degrees farenheit, and the maximum being 85 degrees farenheit. 
 
-[June Summary Statistics](Resources/june_temps.png)
+![June Summary Statistics](Resources/june_temps.png)
 
 * During December, using 1514 data points, it was found that the mean temperature was 71.04 farenheit and the minimum was 56 degrees farenheit, with a december maximum being 83 degrees farenheit.
 
-[December Summary Statistic](Resources/dec_temps.png)
+![December Summary Statistic](Resources/dec_temps.png)
 
 * Overall, the difference in mean temperature is only 3.9 degrees farenheit. While the minimum saw a difference of 8 degrees farenheit the max was only 2 degrees of difference. 
 
